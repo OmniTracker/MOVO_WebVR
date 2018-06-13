@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityAFrameExporter", "Assembly-CSharp.csproj", "{FDE9490D-DEE5-1155-C519-2B6823101F55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityAFrameExporter", "Assembly-CSharp-Editor.csproj", "{AFA60589-671F-2BCC-677F-6EFAA54BDB7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDE9490D-DEE5-1155-C519-2B6823101F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE9490D-DEE5-1155-C519-2B6823101F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE9490D-DEE5-1155-C519-2B6823101F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE9490D-DEE5-1155-C519-2B6823101F55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFA60589-671F-2BCC-677F-6EFAA54BDB7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA60589-671F-2BCC-677F-6EFAA54BDB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA60589-671F-2BCC-677F-6EFAA54BDB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA60589-671F-2BCC-677F-6EFAA54BDB7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
