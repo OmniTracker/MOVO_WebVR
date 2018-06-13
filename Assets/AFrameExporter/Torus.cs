@@ -86,7 +86,7 @@ public class Torus : MonoBehaviour {
 
         mesh.RecalculateBounds();
         mesh.RecalculateNormals(); // added on suggestion of Eric5h5 & joaeba in the forum thread
-        mesh.Optimize();
+        ;
         MeshFilter mFilter = GetComponent<MeshFilter>(); // tweaked to Generic
         mFilter.mesh = mesh;
     }

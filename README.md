@@ -99,3 +99,4 @@ Scale xz are exported average for A-Frame cylinder radius.<br>
 Export as plane.<br>  
 **・Other Meshes**  
 Export as Obj.  
+"# movo_webvr" 

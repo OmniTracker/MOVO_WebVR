@@ -97,7 +97,7 @@ public class TorusGenerator : MonoBehaviour {
 
         mesh.RecalculateBounds();
         mesh.RecalculateNormals();
-        mesh.Optimize();
+        ;
         MeshFilter mFilter = torusMesh.GetComponent<MeshFilter>();
         mFilter.mesh = mesh;
     }
